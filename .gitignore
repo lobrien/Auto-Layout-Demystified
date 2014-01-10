@@ -1,3 +1,16 @@
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
 /build
+
+/2ndEdition/C01/01 - Custom Align Rect/TestProject.xcodeproj/project.xcworkspace/xcshareddata/
+/2ndEdition/C01/01 - Custom Align Rect/TestProject.xcodeproj/project.xcworkspace/xcuserdata/larryobrien.xcuserdatad/
+
+/2ndEdition/C01/01 - Custom Align Rect/TestProject.xcodeproj/xcuserdata/larryobrien.xcuserdatad/xcschemes/TestProject.xcscheme
+
+.DS_Store
+
+bin
+
+obj
+
+*.userprefs
