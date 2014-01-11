@@ -136,4 +136,7 @@
     <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\LaunchImage-700-Portrait~ipad.png" />
     <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\LaunchImage-700%402x~iphone.png" />
   </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="View.xib" />
+  </ItemGroup>
 </Project>
