@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "TestProject", "TestProject.fsproj", "{5FF8B78D-99E3-4906-8C40-6F48B8B3D0FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		AppStore|Any CPU = AppStore|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF8B78D-99E3-4906-8C40-6F48B8B3D0FE}.AppStore|Any CPU.ActiveCfg = AppStore|Any CPU
+		{5FF8B78D-99E3-4906-8C40-6F48B8B3D0FE}.AppStore|Any CPU.Build.0 = AppStore|Any CPU
+		{5FF8B78D-99E3-4906-8C40-6F48B8B3D0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF8B78D-99E3-4906-8C40-6F48B8B3D0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF8B78D-99E3-4906-8C40-6F48B8B3D0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF8B78D-99E3-4906-8C40-6F48B8B3D0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TestProject.fsproj
+	EndGlobalSection
+EndGlobal

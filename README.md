@@ -11,7 +11,7 @@ folders map (fun folder -> PortCSharp |> PortFSharp |> Delete Obj-C version)
 
 Status:
 
-C01: ~~<s>PortCSharp</s>~~ |> PortFSharp |> Delete Obj-C version
+C01: ~~PortCSharp |> PortFSharp |> Delete Obj-C version~~
 
 C02: PortCSharp |> PortFSharp |> Delete Obj-C version
 
