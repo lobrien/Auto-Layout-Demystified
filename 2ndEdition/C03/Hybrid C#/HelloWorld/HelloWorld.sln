@@ -1,21 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.csproj", "{AF6A30F4-4087-4570-9038-7407E7B8631E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.csproj", "{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-		AppStore|Any CPU = AppStore|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AF6A30F4-4087-4570-9038-7407E7B8631E}.AppStore|Any CPU.ActiveCfg = AppStore|Any CPU
-		{AF6A30F4-4087-4570-9038-7407E7B8631E}.AppStore|Any CPU.Build.0 = AppStore|Any CPU
-		{AF6A30F4-4087-4570-9038-7407E7B8631E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF6A30F4-4087-4570-9038-7407E7B8631E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF6A30F4-4087-4570-9038-7407E7B8631E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF6A30F4-4087-4570-9038-7407E7B8631E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.Debug|iPhone.Build.0 = Debug|iPhone
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.Release|iPhone.Build.0 = Release|iPhone
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3C3DEC41-2D57-4408-800C-DE33B5DD4C03}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = HelloWorld.csproj
