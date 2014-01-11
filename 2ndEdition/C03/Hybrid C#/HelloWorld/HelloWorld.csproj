@@ -92,12 +92,31 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <BundleResource Include="Resources\Default-568h%402x.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Main.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="View.xib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\Images.xcassets\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcon.appiconset\AppIcon29x29%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcon.appiconset\AppIcon29x29%402x~ipad.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcon.appiconset\AppIcon29x29~ipad.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcon.appiconset\AppIcon40x40%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcon.appiconset\AppIcon40x40%402x~ipad.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcon.appiconset\AppIcon40x40~ipad.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcon.appiconset\AppIcon60x60%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcon.appiconset\AppIcon76x76%402x~ipad.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcon.appiconset\AppIcon76x76~ipad.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcon.appiconset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\LaunchImage-700-568h%402x~iphone.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\LaunchImage-700-Landscape%402x~ipad.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\LaunchImage-700-Landscape~ipad.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\LaunchImage-700-Portrait%402x~ipad.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\LaunchImage-700-Portrait~ipad.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\LaunchImage-700%402x~iphone.png" />
   </ItemGroup>
 </Project>
